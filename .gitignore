@@ -1,0 +1,10 @@
+*.fls
+*.log
+*.synctex.gz
+*.aux
+*.fdb_latexmk
+*.raw
+*.net
+*.out
+/Midterm
+/Module 0
